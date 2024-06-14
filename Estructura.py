@@ -1,4 +1,5 @@
 #Empezamos el programa ingresando las funciones necesarias para validacion de los datos ingresados.
+#En este caso decidi importar el .py de funciones por sobre importar y llamar a la funcion de una vez
 import funciones
 
 #Empezamos el programa ingresando un valor preferiblemente numerico.
